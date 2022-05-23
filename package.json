@@ -7,7 +7,7 @@
     "dev": "ts-node-dev --exit-child --transpile-only --ignore-watch node_modules src/server.ts"
   },
   "dependencies": {
-    "@prisma/client": "^3.8.1",
+    "@prisma/client": "^3.14.0",
     "@types/express": "^4.17.13",
     "express": "^4.17.2",
     "ts-node-dev": "^1.1.8",
